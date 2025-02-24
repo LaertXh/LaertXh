@@ -1,5 +1,5 @@
 # Laert Xhumari
-## Queens, NY | 📧 LaertXhumari@gmail.com
+## Queens, NY | 📧 laertxhumari@gmail.com
 
 
 🔹 Master's in Business Analytics (Baruch College) | 🔹 Computer Science Background
@@ -17,6 +17,5 @@ I’m a data-driven problem solver with a background in business analytics, data
 
 
 📬 Let's Connect!
-🔹 Email: LaertXhumari@gmail.com
-🔹 LinkedIn: Laert Xhumari
-🔹 GitHub: LaertXh
+🔹 Email: laertxhumari@gmail.com
+🔹 **LinkedIn:** [Laert Xhumari](https://www.linkedin.com/in/laert-xhumari/)
