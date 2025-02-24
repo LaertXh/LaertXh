@@ -12,8 +12,7 @@ I’m a data-driven problem solver with a background in business analytics, data
 🔹 Data Tools: Pandas, NumPy, Scikit-Learn, Matplotlib, Tableau, Power BI
 
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LaertXh&show_icons=true&theme=dark)
+## 📈 Languages Used 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LaertXh&layout=compact&theme=dark)
 
 
